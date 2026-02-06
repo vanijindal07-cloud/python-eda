@@ -1,0 +1,6 @@
+1. Dataset contains X rows and Y columns.
+2. No major missing values found.
+3. Transaction Amount is right-skewed.
+4. Outliers detected using IQR method.
+5. Outliers were removed to improve data quality.
+6. Correlation analysis showed weak to moderate relationships.
